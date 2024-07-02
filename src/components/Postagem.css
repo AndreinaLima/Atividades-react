@@ -1,0 +1,24 @@
+.section-postagem {
+  margin: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: aqua;
+}
+
+.titulo-postagem {
+  color: blueviolet;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-bottom: 10px;
+}
+
+img {
+  margin-left: 88px;
+}
+
+.paragrafo-postagem {
+  color: brown;
+  font-style: italic;
+  font-weight: 600;
+  padding: 10px;
+  text-align: justify;
+}
