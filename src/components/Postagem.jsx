@@ -5,7 +5,7 @@ const linkImagem = "https://picsum.photos/200";
 
 function Postagem() {
   return (
-    <section className="section-postagem">
+    <article className="section-postagem">
       <h1 className="titulo-postagem">{titulo}</h1>
       <img src={linkImagem} alt="Imagem aleatória" />
       <p className="paragrafo-postagem">
@@ -14,7 +14,7 @@ function Postagem() {
         voluptate dolor consequuntur vitae natus, ullam eaque? Voluptates saepe
         optio accusamus ducimus pariatur!
       </p>
-    </section>
+    </article>
   )
 }
 
